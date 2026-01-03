@@ -11,7 +11,7 @@ A professional Android application for real-time network security monitoring, th
 
 | Dashboard | Traffic Analysis | Security Logs | Settings |
 |:---:|:---:|:---:|:---:|
-| ![Dashboard](screenshots/dashboard.png) | ![Traffic](screenshots/traffic.png) | ![Logs](screenshots/logs.png) | ![Settings](screenshots/settings.png) |
+| ![Dashboard](dashboard.png) | ![Live-analysis](live-analysis.png) | ![Logs](logs.png) | ![Settings](settings.png) |
 
 | ![Dashboard](https://github.com/Hannesjht/Network-Security-Monitor/blob/main/dashboard.png) | ![Traffic](https://github.com/Hannesjht/Network-Security-Monitor/blob/main/live-analysis.png) | ![Logs](https://github.com/Hannesjht/Network-Security-Monitor/blob/main/logs.png) | ![Settings](https://github.com/Hannesjht/Network-Security-Monitor/raw/main/settings.png) |
 ## 🚀 Download
