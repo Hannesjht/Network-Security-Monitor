@@ -7,7 +7,7 @@ A professional Android app for monitoring network security, detecting threats, a
 [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/Hannesjht/Android-Network-Monitor/raw/main/releases/NetworkSecurityMonitorv1.0.apk)
 
 **Latest Version:** v1.0  
-**File:** [app-release.apk](https://github.com/Hannesjht/Android-Network-Monitor/raw/main/releases/NetworkSecurityMonitorv1.0.apk)
+**File:** [NetworkSecurityMonitorv1.0.apk](https://github.com/Hannesjht/Android-Network-Monitor/raw/main/releases/NetworkSecurityMonitorv1.0.apk)
 
 ## 📸 Screenshots
 ![Dashboard](screenshots/dashboard.png)
