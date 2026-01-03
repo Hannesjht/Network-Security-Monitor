@@ -1,8 +1,6 @@
 # 🔒 Network Security Monitor
 
-[![## 🚀 DownloadDownload APK]([https://img.shields.io/badge/Download_APK-v1.0-4CAF50?style=for-the-badge&logo=android)](https://github.com/Hannesjht/Android-Network-Monitor/releases/latest/download/NetworkSecurityMonitorv1.0.apk](https://github.com/Hannesjht/Network-Security-Monitor/tree/main/Android-Network-Monitor-GitHub/app/build/outputs/apk/release))
-## 🚀 Download
-
+[![## 🚀 Download APK]([https://img.shields.io/badge/Download_APK-v1.0-4CAF50?style=for-the-badge&logo=android)](https://github.com/Hannesjht/Android-Network-Monitor/releases/latest/download/NetworkSecurityMonitorv1.0.apk](https://github.com/Hannesjht/Network-Security-Monitor/tree/main/Android-Network-Monitor-GitHub/app/build/outputs/apk/release))
 
 ![GitHub Release](https://img.shields.io/github/v/release/Hannesjht/Android-Network-Monitor)
 ![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen)
