@@ -16,7 +16,7 @@ A professional Android application for real-time network security monitoring, th
 | ![Dashboard](https://github.com/Hannesjht/Network-Security-Monitor/blob/main/dashboard.png) | ![Traffic](https://github.com/Hannesjht/Network-Security-Monitor/blob/main/live-analysis.png) | ![Logs](https://github.com/Hannesjht/Network-Security-Monitor/blob/main/logs.png) | ![Settings](https://github.com/Hannesjht/Network-Security-Monitor/raw/main/settings.png) |
 ## 🚀 Download
 
-[![Download APK](https://img.shields.io/badge/Download_APK-v1.0-4CAF50?style=for-the-badge&logo=android)](https://github.com/Hannesjht/Android-Network-Monitor/releases/latest/download/NetworkSecurityMonitorv1.0.apk)
+[![Download APK]([https://img.shields.io/badge/Download_APK-v1.0-4CAF50?style=for-the-badge&logo=android)](https://github.com/Hannesjht/Android-Network-Monitor/releases/latest/download/NetworkSecurityMonitorv1.0.apk](https://github.com/Hannesjht/Network-Security-Monitor/tree/main/Android-Network-Monitor-GitHub/app/build/outputs/apk/release))
 
 **Latest Version:** v1.0  
 **Minimum Android:** 8.0 (API 26)  
