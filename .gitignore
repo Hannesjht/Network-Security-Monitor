@@ -1,0 +1,28 @@
+# Compiled files
+*.exe
+*.jar
+*.dll
+
+# JRE - DO NOT COMMIT
+jre/
+jdk/
+
+# Build output
+Output/
+target/
+bin/
+dist/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
